@@ -26,7 +26,7 @@
           <boolProp name="CookieManager.controlledByThreadGroup">false</boolProp>
         </CookieManager>
         <hashTree/>
-        <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="Configuração dos dados CSV" enabled="true">
+        <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="Configuração dos dados CSV">
           <stringProp name="delimiter">;</stringProp>
           <stringProp name="fileEncoding">UTF-8</stringProp>
           <stringProp name="filename">C:/Users/ruan.osorio/automacao/treinamentos/JMeter/dados-testes.csv</stringProp>
