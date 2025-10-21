@@ -1,8 +1,22 @@
 cidadePartida;cidadeDestino;voo;ciaAerea;preco;nome;endereco;cidade;estado;cep;bandeiraCartaoCredito;numeroCartaoCredito;mesCartaoCredito;anoCartaoCredito;NomeCartaoCredito
-Paris;Buenos Aires;43;Virgin America;472,56;João Silva;Rua das Flores, 123;Porto Alegre;RS;90010-000;Visa;4111111111111111;08;2027
+Paris;Buenos Aires;43;Virgin America;472.56;João Silva;Rua das Flores, 123;Porto Alegre;RS;90010-000;Visa;4111111111111111;08;2027
 Philadelphia;Rome;243;United Airlines;432.98;Maria Oliveira;Av. Brasil, 456;Sao Paulo;SP;01001-000;American Express;378282246310005;11;2028
 Boston;London;9696;Aer Lingus;200.98;Lucas Pereira;Travessa do Sol, 89;Rio de Janeiro;RJ;20031-050;Diner's Club;30569309025904;03;2026
 Portland;Berlin;9696;Aer Lingus;200.98;Ana Souza;Alameda Santos, 1200;Sao Paulo;SP;01418-200;Visa;4012888888881881;12;2029
 San Diego;New York;12;Virgin America;765.32;Carlos Mendes;Praça da Sé, 7;Belo Horizonte;MG;30110-020;American Express;371449635398431;06;2026
 Mexico City;Dublin;12;Virgin America;765.32;Fernanda Rocha;Rua do Comércio, 250;Curitiba;PR;80020-310;Diner's Club;38520000023237;09;2030
 São Paolo;Cairo;4346;Lufthansa;233.98;Ricardo Lima;Avenida Ipiranga, 1337;Salvador;BA;40025-010;Visa;4242424242424242;05;2028
+Paris;Buenos Aires;43;Virgin America;472.56;Paula Martins;Rua Ametista, 45;Florianópolis;SC;88010-300;Visa;4111111111111111;04;2029
+Philadelphia;Rome;243;United Airlines;432.98;André Costa;Rua Augusta, 980;Sao Paulo;SP;01304-001;American Express;378282246310005;09;2026
+Boston;London;9696;Aer Lingus;200.98;Renata Figueiredo;Rua XV de Novembro, 222;Curitiba;PR;80020-310;Diner's Club;30569309025904;07;2027
+Portland;Berlin;9696;Aer Lingus;200.98;Felipe Nunes;Rua das Acácias, 300;Recife;PE;50010-040;Visa;4012888888881881;10;2028
+San Diego;New York;12;Virgin America;765.32;Juliana Santos;Rua Pedro Álvares Cabral, 120;Brasília;DF;70040-010;American Express;371449635398431;11;2027
+Mexico City;Dublin;12;Virgin America;765.32;Eduardo Ramos;Rua Sete de Setembro, 56;Fortaleza;CE;60010-120;Diner's Club;38520000023237;02;2029
+São Paolo;Cairo;4346;Lufthansa;233.98;Tatiane Almeida;Rua Monte Alegre, 890;Campinas;SP;13010-170;Visa;4242424242424242;08;2030
+Paris;Buenos Aires;43;Virgin America;472.56;Marcos Araujo;Rua José de Alencar, 199;Natal;RN;59010-000;Visa;4111111111111111;03;2027
+Philadelphia;Rome;243;United Airlines;432.98;Patrícia Souza;Avenida Atlântica, 456;Rio de Janeiro;RJ;22010-000;American Express;378282246310005;12;2029
+Boston;London;9696;Aer Lingus;200.98;Thiago Barbosa;Rua Padre Chagas, 321;Porto Alegre;RS;90570-080;Diner's Club;30569309025904;06;2028
+Portland;Berlin;9696;Aer Lingus;200.98;Camila Castro;Rua Domingos Ferreira, 501;Recife;PE;51011-050;Visa;4012888888881881;09;2030
+San Diego;New York;12;Virgin America;765.32;Vitor Menezes;Rua João Pessoa, 333;João Pessoa;PB;58010-030;American Express;371449635398431;01;2029
+Mexico City;Dublin;12;Virgin America;765.32;Gabriela Lima;Rua Alberto Torres, 45;Curitiba;PR;80010-080;Diner's Club;38520000023237;07;2027
+São Paolo;Cairo;4346;Lufthansa;233.98;Rodrigo Campos;Avenida Paulista, 1800;Sao Paulo;SP;01310-200;Visa;4242424242424242;11;2026
